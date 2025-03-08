@@ -1,0 +1,111 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Directory listing for /</title>
+</head>
+<body>
+<h1>Directory listing for /</h1>
+<hr>
+<ul>
+<li><a href=".aliases">.aliases</a></li>
+<li><a href=".bash_history">.bash_history</a></li>
+<li><a href=".bitwarden-ssh-agent.sock">.bitwarden-ssh-agent.sock</a></li>
+<li><a href=".BurpSuite/">.BurpSuite/</a></li>
+<li><a href=".cache/">.cache/</a></li>
+<li><a href=".cargo/">.cargo/</a></li>
+<li><a href=".CFUserTextEncoding">.CFUserTextEncoding</a></li>
+<li><a href=".cocoapods/">.cocoapods/</a></li>
+<li><a href=".colima/">.colima/</a></li>
+<li><a href=".composer/">.composer/</a></li>
+<li><a href=".config/">.config/</a></li>
+<li><a href=".continue/">.continue/</a></li>
+<li><a href=".cursor/">.cursor/</a></li>
+<li><a href=".dart-tool/">.dart-tool/</a></li>
+<li><a href=".dartServer/">.dartServer/</a></li>
+<li><a href=".docker/">.docker/</a></li>
+<li><a href=".DS_Store">.DS_Store</a></li>
+<li><a href=".embedchain/">.embedchain/</a></li>
+<li><a href=".envi/">.envi/</a></li>
+<li><a href=".expo/">.expo/</a></li>
+<li><a href=".flutter">.flutter</a></li>
+<li><a href=".flutter-devtools/">.flutter-devtools/</a></li>
+<li><a href=".frida/">.frida/</a></li>
+<li><a href=".ghidra/">.ghidra/</a></li>
+<li><a href=".gitconfig">.gitconfig</a></li>
+<li><a href=".hammerspoon/">.hammerspoon/</a></li>
+<li><a href=".iterm2/">.iterm2/</a></li>
+<li><a href=".iterm2_shell_integration.zsh">.iterm2_shell_integration.zsh</a></li>
+<li><a href=".john/">.john/</a></li>
+<li><a href=".lesshst">.lesshst</a></li>
+<li><a href=".lldb/">.lldb/</a></li>
+<li><a href=".local/">.local/</a></li>
+<li><a href=".lunarclient/">.lunarclient/</a></li>
+<li><a href=".m2/">.m2/</a></li>
+<li><a href=".mailcap">.mailcap</a></li>
+<li><a href=".matplotlib/">.matplotlib/</a></li>
+<li><a href=".mc/">.mc/</a></li>
+<li><a href=".mime.types">.mime.types</a></li>
+<li><a href=".mitmproxy/">.mitmproxy/</a></li>
+<li><a href=".msf4/">.msf4/</a></li>
+<li><a href=".mysql_history">.mysql_history</a></li>
+<li><a href=".npm/">.npm/</a></li>
+<li><a href=".objection/">.objection/</a></li>
+<li><a href=".oh-my-zsh/">.oh-my-zsh/</a></li>
+<li><a href=".ollama/">.ollama/</a></li>
+<li><a href=".p10k.zsh">.p10k.zsh</a></li>
+<li><a href=".pub-cache/">.pub-cache/</a></li>
+<li><a href=".pyenv/">.pyenv/</a></li>
+<li><a href=".python_history">.python_history</a></li>
+<li><a href=".rnd">.rnd</a></li>
+<li><a href=".sage/">.sage/</a></li>
+<li><a href=".ssh/">.ssh/</a></li>
+<li><a href=".swiftpm/">.swiftpm/</a></li>
+<li><a href=".terminfo/">.terminfo/</a></li>
+<li><a href=".Trash/">.Trash/</a></li>
+<li><a href=".vagrant.d/">.vagrant.d/</a></li>
+<li><a href=".viminfo">.viminfo</a></li>
+<li><a href=".vscode/">.vscode/</a></li>
+<li><a href=".wdm/">.wdm/</a></li>
+<li><a href=".wget-hsts">.wget-hsts</a></li>
+<li><a href=".wine/">.wine/</a></li>
+<li><a href=".wpscan/">.wpscan/</a></li>
+<li><a href=".zcompdump-Landon%E2%80%99s%20MacBook%20Pro-5.9">.zcompdump-Landon’s MacBook Pro-5.9</a></li>
+<li><a href=".zprofile">.zprofile</a></li>
+<li><a href=".zsh_history">.zsh_history</a></li>
+<li><a href=".zsh_sessions/">.zsh_sessions/</a></li>
+<li><a href=".zshrc">.zshrc</a></li>
+<li><a href="Applications/">Applications/</a></li>
+<li><a href="ccdc-sca/">ccdc-sca/</a></li>
+<li><a href="CXPBottles/">CXPBottles/</a></li>
+<li><a href="Desktop/">Desktop/</a></li>
+<li><a href="Documents/">Documents/</a></li>
+<li><a href="Downloads/">Downloads/</a></li>
+<li><a href="ferox-https_check-vote_ct_ws_user_-1740275566.state">ferox-https_check-vote_ct_ws_user_-1740275566.state</a></li>
+<li><a href="ferox-https_check-vote_ct_ws_user_-1740275573.state">ferox-https_check-vote_ct_ws_user_-1740275573.state</a></li>
+<li><a href="ferox-https_check-vote_ct_ws_user_-1740275651.state">ferox-https_check-vote_ct_ws_user_-1740275651.state</a></li>
+<li><a href="ferox-https_check-vote_ct_ws_user_-1740275734.state">ferox-https_check-vote_ct_ws_user_-1740275734.state</a></li>
+<li><a href="flutter/">flutter/</a></li>
+<li><a href="ghidra_scripts/">ghidra_scripts/</a></li>
+<li><a href="go/">go/</a></li>
+<li><a href="Google%20Drive/">Google Drive@</a></li>
+<li><a href="imgur.py">imgur.py</a></li>
+<li><a href="Library/">Library/</a></li>
+<li><a href="Movies/">Movies/</a></li>
+<li><a href="Music/">Music/</a></li>
+<li><a href="OneDrive%20-%20Tennessee%20Tech%20University/">OneDrive - Tennessee Tech University@</a></li>
+<li><a href="Pictures/">Pictures/</a></li>
+<li><a href="Public/">Public/</a></li>
+<li><a href="Repos/">Repos/</a></li>
+<li><a href="Tennessee%20Tech%20University/">Tennessee Tech University@</a></li>
+<li><a href="tmp/">tmp/</a></li>
+<li><a href="Tools/">Tools/</a></li>
+<li><a href="USCG.gpr">USCG.gpr</a></li>
+<li><a href="USCG.rep/">USCG.rep/</a></li>
+<li><a href="VirtualBox%20VMs/">VirtualBox VMs/</a></li>
+<li><a href="VirtualMachines/">VirtualMachines/</a></li>
+<li><a href="wallpaper.png">wallpaper.png</a></li>
+</ul>
+<hr>
+</body>
+</html>
